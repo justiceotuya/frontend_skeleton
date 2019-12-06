@@ -1,4 +1,4 @@
-# EngrEric-OPPO-Redefinition-frontend
+# OPPO-Redefinition-frontend
 # project-template
 Document your applications API and general usage
 
